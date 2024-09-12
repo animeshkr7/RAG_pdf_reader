@@ -1,0 +1,7 @@
+weaviate-client
+langchain
+langchain-community
+tiktoken
+pypdf
+rapidocr-onnxruntime
+python-dotenv
